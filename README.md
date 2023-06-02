@@ -1,2 +1,2 @@
-# PrepCurse-Renzo-Marlo
-Repositorio de Prueba del modulo 2
+Este es mi proyecto creando un repositorio y clonandolo desde mi github
+hacia mi escritorio local
